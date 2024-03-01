@@ -1,0 +1,27 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  min-height: 70vh;
+}
+
+
+/* register page */
+
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 12vh 0;
+}
+
+.product-link{
+  text-decoration: none !important;
+  color: black !important;
+}
+
